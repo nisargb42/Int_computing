@@ -1,6 +1,6 @@
-#Hospital Employee Management System
+## Hospital Employee Management System
 
-###This is a Java program that simulates a hospital employee management system. The program defines several classes, including `HospitalEmployee`, `Doctor`, `Surgeon`, and `Nurse`, each with their own properties and methods. 
+This is a Java program that simulates a hospital employee management system. The program defines several classes, including `HospitalEmployee`, `Doctor`, `Surgeon`, and `Nurse`, each with their own properties and methods. 
 
 
 Run the `Hospital` class, which contains the `main` method that initializes the hospital employees and calls their respective `work` methods.
